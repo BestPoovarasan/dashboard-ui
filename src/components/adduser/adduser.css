@@ -1,0 +1,10 @@
+.adduser{
+    display: flex;
+}
+.aduser{
+    align-items: center;
+    padding: 40px;
+}
+form{
+    width: 400px;
+}

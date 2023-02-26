@@ -1,0 +1,8 @@
+.edituser {
+    display: flex;
+}
+
+.eduser {
+    align-items: center;
+    padding: 40px;
+}

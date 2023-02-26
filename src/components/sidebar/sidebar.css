@@ -1,0 +1,15 @@
+.sidebar{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+max-width: 250px;
+padding: 10px;
+height: 100vh;
+box-shadow: 0 13px 27px -5px rgba(50,50,93,0.25), 0 8px 16px -8px rgba(74, 167, 182, 0.3);
+}
+.sidebtn{
+    width: 160px;
+    gap: 7px;
+    
+}
